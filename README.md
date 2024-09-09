@@ -262,9 +262,6 @@ ex: printf("Wrong parameters value: file %s on line %d\r\n", file, line) */
 
 ## Proteus layout(Add pdf screen shot of circuit here)
  
- 
- 
- ![Screenshot 2024-09-06 094431](https://github.com/user-attachments/assets/96c23fbd-d81b-49cd-8eca-e3bb0599334e)
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
